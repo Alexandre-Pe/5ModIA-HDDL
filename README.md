@@ -8,10 +8,9 @@ Ressource pour les TPs du cours ModIA "Statistique en grande dimension et Appren
 
 1. Introduction aux Réseaux de Neurones
 
-**TP 1 et 2 : Réseaux de neuronnes avec Numpy**`
-`
-_But_ : Construire et entraîner un perceptron multi-couches, étape par étape
+**TP 1 et 2 : Réseaux de neuronnes avec Numpy**
 
+_But_ : Construire et entraîner un perceptron multi-couches, étape par étape <br>
 2. Réseaux de Neurones Convolutifs
 
 3. Réseaux de Neurones et 3D

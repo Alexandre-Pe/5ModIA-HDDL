@@ -10,9 +10,12 @@ Ressource pour les TPs du cours ModIA "Statistique en grande dimension et Appren
 
 **TP 1 - [Réseaux de neuronnes avec Numpy - Partie 1](TP-1-2/TP1_Reseaux_de_neurones_avec_Numpy.ipynb)** <br>
 **TP 2 - [Réseaux de neuronnes avec Numpy - Partie 2](TP-1-2/TP2_Reseaux_de_Neurones_avec_Numpy.ipynb)** <br>
-_But_ : Construire et entraîner un perceptron mono-couche et multi-couches, étape par étape <br>
+_But_ : Construire et entraîner un perceptron mono-couche et multi-couches, étape par étape. <br>
 
 2. Réseaux de Neurones Convolutifs
+
+**TP 3 - [Classification d'images de chiens et de chats](TP-3/TP3_Classification_de_chiens_et_chats.ipynb)** <br>
+_But_ : Mettre en oeuvre les différentes techniques vues dans le cours d'introduction aux CNNs ; en particulier, la régularisation par augmentation de données, le transfert learning et le fine tuning. <br>
 
 3. Réseaux de Neurones et 3D
 

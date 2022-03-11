@@ -17,6 +17,9 @@ _But_ : Construire et entraîner un perceptron mono-couche et multi-couches, ét
 **TP 3 - [Classification d'images de chiens et de chats](TP-3/TP3_Classification_de_chiens_et_chats.ipynb)** <br>
 _But_ : Mettre en oeuvre les différentes techniques vues dans le cours d'introduction aux CNNs ; en particulier, la régularisation par augmentation de données, le transfert learning et le fine tuning. <br>
 
+**TP 4 et 5 - [Estimation de posture dans une image](TP-4-5/TP4-5_Estimation_de_Posture.ipynb)** <br>
+_But_ : Traiter le problème de la détection du "squelette" d'un humain dans une image. <br>
+
 3. Réseaux de Neurones et 3D
 
 

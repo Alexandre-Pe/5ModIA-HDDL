@@ -22,15 +22,20 @@ _But_ : Traiter le problème de la détection du "squelette" d'un humain dans un
 
 3. Réseaux de Neurones et 3D
 
+4. Annotation pour l'apprentissage
+
 
 ## PARTIE II : Réseaux de neurones avancés
 
-4. Auto-encodeurs et apprentissage auto-supervisé
+5. Auto-encodeurs et apprentissage auto-supervisé
 
-5. Deep Clustering
+**TP 8 - [Auto-encodeurs](TP-8/TP8_Autoencodeurs.ipynb)** <br>
+_But_ : Manipuler des auto-encodeurs sur un exemple simple, la base de données MNIST, et ainsi pouvoir visualiser les concepts vus en cours, et notamment illustrer la notion d'espace latent. <br>
 
-6. Modèles génératifs (GAN, VAE)
+6. Deep Clustering
 
-7. Apprentissage semi-supervisé
+7. Modèles génératifs (GAN, VAE)
 
-8. Annotation pour l'apprentissage
+8. Apprentissage semi-supervisé
+
+

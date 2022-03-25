@@ -36,6 +36,9 @@ _But_ : Manipuler des auto-encodeurs sur un exemple simple, la base de données 
 
 7. Modèles génératifs (GAN, VAE)
 
+**TP 9 - [Auto-encodeurs variationnels (VAE) et Réseaux génératifs antagonistes (GAN)](TP-9/TP9_VAE_GAN.ipynb)** <br>
+_But_ : Manipuler les deux principaux exemples de modèles génératifs vus en cours et essayer d'appréhender leurs limites.<br>
+
 8. Apprentissage semi-supervisé
 
 

@@ -3,8 +3,8 @@ def build_sparse_autoencoder(n_latent=32, l=1e-4):
     input_img = Input(shape=(n_input,))
 
     # Définition de l'encoder
-    x = Dense(128, activation='relu', kernel_regularizer = regularizers.l1(l))(input_img)
-    encoded = Dense(n_latent, activation='linear', kernel_regularizer = regularizers.l1(l))(x)
+    x = Dense(128, activation='relu')(input_img)
+    encoded = Dense(n_latent, activation='linear', activity_regularizer = regularizers.l1(l))(x)
     encoder = Model(input_img, encoded, name = "sparse_encoder")
 
     # Définition du decoder

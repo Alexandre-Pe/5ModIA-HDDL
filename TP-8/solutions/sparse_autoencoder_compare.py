@@ -46,7 +46,7 @@ for i in range(n):
     ax.get_xaxis().set_visible(False)
     ax.get_yaxis().set_visible(False)
 
-title = ['test data','endoded','sparse endoded','decoded','sparse decoded']
+title = ['test data','encoded','sparse encoded','decoded','sparse decoded']
 for i in range(5) :  
     ax = plt.subplot(5,n,1+i*n)
     plt.title(title[i])

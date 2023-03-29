@@ -1,5 +1,3 @@
-## A COMPLETER ##
-
 # Encoder
 inputs = kl.Input(shape=(input_dim,), name='encoder_input')
 x = kl.Dense(intermediate_dim, activation='relu')(inputs)
